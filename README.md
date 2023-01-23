@@ -1,11 +1,9 @@
 ## scratchpad_sample
 
-This repo will show you how to use use github actions and github codespaces with the latest python versions.  At this time I do not see support for python 3.11 in github actions. Github codespaces works with python 3.11 :)
+This repo will show you how to use use github actions and github codespaces with the latest python versions.
   
   * github codespace configuration are in `.devcontainers/` directory.
-     * python3.11 
   * github actions configuration are in `.github/workflows/` directory.
-     * python 3.9, 3.10
 
 ### more info:
 
