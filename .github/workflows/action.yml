@@ -19,4 +19,4 @@ jobs:
           ls -la
       - name: 0001_hello_world.py
         run: |
-          python3 0001_hello_world.py
+          ./0001_hello_world.py
