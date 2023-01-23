@@ -17,4 +17,4 @@ jobs:
           python-version: ${{ matrix.python-version }}
       - name: hello world
         run: |
-        python 0001_hello_world.py
+          python 0001_hello_world.py
