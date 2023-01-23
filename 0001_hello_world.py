@@ -1,3 +1,7 @@
 #!/usr/bin/env python3
 
-print ("hello world")
+import platform
+
+
+print ("hello world :)")
+print(("python version: %s") % platform.python_version())
