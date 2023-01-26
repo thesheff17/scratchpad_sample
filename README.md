@@ -16,6 +16,7 @@ run `./0002_python_web_server.py` to start a local web server in codespaces.  vs
 To connect locally from code space use:
 
 `psql -h db -p 5432 -d app -U app_user`
+
 user password: `app_password` from the `.devcontainer/docker-compose.yml` file.
 
 Password for user app_user: 
